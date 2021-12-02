@@ -6,6 +6,8 @@
 Welcome to Python CI/CD Example's documentation!
 ================================================
 
+Isn't it great?
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
